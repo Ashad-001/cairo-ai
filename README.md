@@ -9,3 +9,7 @@ Cairo is a local, private LLM assistant built using Ollama and AnythingLLM.
    ```bash
    git clone [https://github.com/Ashad-001/cairo-ai.git](https://github.com/Ashad-001/cairo-ai.git)
    cd cairo-ai
+
+ollama create cairo -f Modelfile
+
+ollama run cairo
