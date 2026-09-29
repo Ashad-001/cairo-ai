@@ -1,5 +1,5 @@
 # Cairo AI Assistant
-
+![Cairo AI Demo](demo.png)
 Cairo is a local, private LLM assistant built using Ollama and AnythingLLM.
 
 ## Setup Instructions
